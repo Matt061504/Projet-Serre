@@ -67,4 +67,4 @@ tools/             outils PC (ex. dashboard Node-RED)
 
 - Mattéo Sourdes
 - Liam Barbosa
-- Davic Rafinesque
+- David Rafinesque
