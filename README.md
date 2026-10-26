@@ -66,3 +66,5 @@ tools/             outils PC (ex. dashboard Node-RED)
 ## Équipe
 
 - Mattéo Sourdes
+- Liam Barbosa
+- Davic Rafinesque
