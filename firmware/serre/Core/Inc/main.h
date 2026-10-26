@@ -88,8 +88,8 @@ void Error_Handler(void);
 #define T_VCP_RX_GPIO_Port GPIOA
 #define LUMI_Pin LL_GPIO_PIN_4
 #define LUMI_GPIO_Port GPIOA
-#define PUMP_IN1_Pin LL_GPIO_PIN_5
-#define PUMP_IN1_GPIO_Port GPIOA
+#define PUMP_Pin LL_GPIO_PIN_5
+#define PUMP_GPIO_Port GPIOA
 #define POT_LED_Pin LL_GPIO_PIN_6
 #define POT_LED_GPIO_Port GPIOA
 #define FAN_Pin LL_GPIO_PIN_7
