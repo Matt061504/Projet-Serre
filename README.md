@@ -1,6 +1,6 @@
-# Serre intelligente — STM32
+# Serre intelligente  STM32
 
-Projet CESI FISA S3E A4 — module Microcontrôleur (2025-2026).
+Projet CESI FISA S3E A4, module Microcontrôleur (2025-2026).
 Mini serre autonome : mesure de l'humidité du sol et de la température, arrosage et ventilation
 automatiques selon des consignes réglables, affichage LCD et interface à boutons.
 
