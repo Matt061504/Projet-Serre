@@ -1,0 +1,9 @@
+# Fins de ligne normalisees (CubeMX genere en CRLF)
+* text=auto
+*.ioc text
+*.c text
+*.h text
+*.ld text
+*.pdf binary
+*.png binary
+*.jpg binary
