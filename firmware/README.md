@@ -6,7 +6,7 @@ Organisation prévue :
 
 ```
 Core/        main.c, ordonnanceur (SysTick 1 ms), machine d'états AUTO / MANUEL / MENU
-Drivers/     gpio, adc, uart, timer, flash (registres CMSIS / LL — pas d'abstraction Arduino)
+Drivers/     gpio, adc, uart, timer, flash (registres CMSIS / LL - pas d'abstraction Arduino)
 Modules/     lcd_hd44780, button, motodriver, soil_sensor, tmp235, light_sensor
 App/         regulation, ui_menu, config (consignes en flash), logger (UART)
 ```
